@@ -1,6 +1,6 @@
 # Repositório para conter os exercícios e projetos da disciplina DCA0445: Processamento Digital de Imagens (2020.6)
 
-Este repositório contém os códigos feitos com a linguagem de programação Python e principalmente a biblioteca OpenCV, com o objetivo de realizar o processamento de imagens para elucidar os conceitos aprendidos durante as aulas.
+Este repositório contém os códigos feitos com a linguagem de programação Python e principalmente a biblioteca OpenCV, com o objetivo de realizar o processamento de imagens para elucidar os conceitos aprendidos durante as aulas. As implementações foram feitas no sistema operacional Windows, de forma que, caso o repositório seja clonado para outro sistema operacional, haverá divergências no que diz respeito a representação dos diretórios das imagens.
 
 # Exercícios
 
