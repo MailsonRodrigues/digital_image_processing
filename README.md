@@ -5,7 +5,7 @@ Este repositório contém os códigos feitos com a linguagem de programação Py
 # Exercícios
 
 ## [Manipulando pixels de uma imagem](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_1.ipynb)
-## [Preenchendo regiôes](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_2.ipynb)
+## [Preenchendo regiões](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_2.ipynb)
 ## [Manipulação de histogramas](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_3.ipynb)
 ## [Filtragem no domínio espacial I](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_4.ipynb)
 ## [Filtragem no domínio espacial II](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_5.ipynb)
