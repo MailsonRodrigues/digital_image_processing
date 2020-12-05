@@ -9,6 +9,9 @@ Este repositório contém os códigos feitos com a linguagem de programação Py
 ## [Manipulação de histogramas](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_3.ipynb)
 ## [Filtragem no domínio espacial I](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_4.ipynb)
 ## [Filtragem no domínio espacial II](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_5.ipynb)
+## [Filtragem no domínio da frequência](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_6.ipynb)
+## [Detecção de bordas com o algoritmo de Canny](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_7.ipynb)
+## [Quantização vetorial com K-means](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_8.ipynb)
 
 
 # Projetos
