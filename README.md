@@ -13,5 +13,8 @@ Este repositório contém os códigos feitos com a linguagem de programação Py
 ## [Detecção de bordas com o algoritmo de Canny](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_7.ipynb)
 ## [Quantização vetorial com K-means](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/exercises/Exercicios_8.ipynb)
 
-
 # Projetos
+
+## Localização do eixo principal de um resistor em uma cena
+### [Código Fonte]https://github.com/MailsonRodrigues/digital_image_processing/blob/master/projects/eixo_resistor/detector_resistores.py)
+### [Relatório]
