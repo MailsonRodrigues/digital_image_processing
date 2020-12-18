@@ -16,5 +16,5 @@ Este repositório contém os códigos feitos com a linguagem de programação Py
 # Projetos
 
 ## Localização do eixo principal de um resistor em uma cena
-### [Código Fonte]https://github.com/MailsonRodrigues/digital_image_processing/blob/master/projects/eixo_resistor/detector_resistores.py)
-### [Relatório]
+### [Código Fonte](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/projects/eixo_resistor/detector_resistores.py)
+### [Relatório](https://github.com/MailsonRodrigues/digital_image_processing/blob/master/projects/eixo_resistor/documentation/Localiza%C3%A7%C3%A3o%20do%20eixo%20principal%20de%20resistores%20em%20uma%20cena.pdf)
